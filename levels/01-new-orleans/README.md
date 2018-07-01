@@ -1,6 +1,7 @@
 # 01: New Orleans
 
 - _Points:_ 10 points
+- _Version number_: a.01
 
 ## Password
 

@@ -1,6 +1,7 @@
 # 04: Cusco
 
 - _Points:_ 25 points
+- _Version number_: b.02
 
 ## Password
 
