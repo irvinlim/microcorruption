@@ -1,4 +1,4 @@
-# 03: Hanoi
+# 04: Hanoi
 
 - _Points:_ 20 points
 - _Version number_: b.01

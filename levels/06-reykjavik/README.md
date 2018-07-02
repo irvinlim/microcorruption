@@ -1,4 +1,4 @@
-# 05: Reykjavik
+# 06: Reykjavik
 
 - _Points:_ 35 points
 - _Version number_: a.03

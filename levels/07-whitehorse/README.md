@@ -1,4 +1,4 @@
-# 06: Whitehorse
+# 07: Whitehorse
 
 - _Points:_ 50 points
 - _Version number_: c.01

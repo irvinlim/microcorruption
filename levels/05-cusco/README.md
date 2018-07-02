@@ -1,4 +1,4 @@
-# 04: Cusco
+# 05: Cusco
 
 - _Points:_ 25 points
 - _Version number_: b.02
