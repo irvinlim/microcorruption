@@ -139,4 +139,11 @@ Putting everything else aside, let's put a breakpoint on the `cmp` instruction a
 
 We see that the contents at `r4-0x24` contains the value of our flag. This means that we can change the control flow by making the first two bytes of the password `cf f5`.
 
-Trying that out, it turns out that this unlocks the door successfully! This is because we did not execute the `jnz $+0xc` instruction, which then causes us to trigger an INT at `#0x2464` with `0x7f` pushed to the stack. This appears to cause the door to unlock successfully.
+Trying that out, it turns out that this unlocks the door successfully! This is because we did not execute the `jnz $+0xc` instruction, which then causes us to trigger an INT at `#0x2464` with `0x7f` pushed to the stack.
+
+From the LockIT Pro manual:
+
+> INT 0x7F.
+> Interface with deadbolt to trigger an unlock if the password is correct.
+
+This means that triggering an interrupt of type `0x7F` unlocks the deadbolt unconditionally.
