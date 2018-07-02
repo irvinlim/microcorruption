@@ -6,8 +6,10 @@
 ## Password
 
 ```
-"QHo!id~
+2251486f2169647e
 ```
+
+_ASCII: `"QHo!id~`_
 
 ## Manual
 

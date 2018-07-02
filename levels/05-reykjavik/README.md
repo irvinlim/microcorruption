@@ -5,8 +5,6 @@
 
 ## Password
 
-Password in hex:
-
 ```
 cff5
 ```

@@ -6,8 +6,10 @@
 ## Password
 
 ```
-%=l9a7Y
+253d6c39613759
 ```
+
+_ASCII: `%=l9a7Y`_
 
 ## Manual
 

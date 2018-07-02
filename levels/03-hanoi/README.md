@@ -6,8 +6,10 @@
 ## Password
 
 ```
-AAAAAAAAAAAAAAAAL
+414141414141414141414141414141414c
 ```
+
+_ASCII: `AAAAAAAAAAAAAAAAL`_
 
 Any password with the 17th character being `L` will work.
 
